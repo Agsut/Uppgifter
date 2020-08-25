@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<title>Uppgift 1</title>
+<link
+</head>
+<body>
+<h1>August</h1>
+<p> Jag heter August Karlsson, jag är 17 år och går andra året på Teknikum.
+</p>
+<p> Jag gillar spel och kolla på film.
+</p>
+<h2> Teknikprogrammet
+</h2>
+<p> Jag valde teknik för att det är intressant och det behövs för de jobben jag är intresserade av.
+</p>
+<p> Jag vill lära mig att göra hemsidor och hur hemsidor fungerar.
+</p>
+<a href="https://www.vaxjo.se/sidor/forskola-och-skola/gymnasieskola/teknikum.html"><img src="https://www.svtstatic.se/image/wide/650/24754742/1576083057?format=auto&quality=70#"></a>
+
+</body>
+</html> 
+
+p.text{
+	color:blue;
