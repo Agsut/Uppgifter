@@ -1,0 +1,28 @@
+p {
+	color:blue;
+	font-size:150%;
+}
+
+	.bg-green{
+		background-color: green;
+	}
+	
+	h1,h2{
+	font-family:arial;
+	font-size:22px;
+	color:orange;
+	}
+	p.program{
+		color:red;
+		background-color:gray;
+		text-align:center;
+	}
+	p.julijuus{
+		text-align:right;
+	}
+	a{
+		text-decoration:none;
+	}
+	p.Border{
+		Border:10px solid black;
+	
