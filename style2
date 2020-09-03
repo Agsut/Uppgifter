@@ -1,0 +1,38 @@
+p {
+	color:blue;
+	font-size:150%;
+}
+
+	.bg-green{
+		background-color: green;
+	}
+	
+	h1,h2{
+	font-family:arial;
+	font-size:22px;
+	color:orange;
+	}
+	p.program{
+		color:white;
+		background-color:red;
+		text-align:center;
+	}
+	p.julijuus{
+		text-align:right;
+	}
+	a{
+		text-decoration:none;
+	}
+	p.Border{
+		Border:10px solid black;
+	}
+	
+	.container {
+  display: grid;
+  grid-template-columns: 300px 150px 150px 300px;
+  grid-template-rows:400px;
+  grid-template-areas: 
+    "header header header header"
+    "main main . sidebar"
+    "footer footer footer footer";
+  
