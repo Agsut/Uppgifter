@@ -1,0 +1,33 @@
+table, tr, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 250px;
+    height: 40px;
+}
+tr:nth-child(even){
+    background-color:Gray;
+}
+thead{
+    font-size: 150%;
+}
+tr:nth-child(odd){
+    background-color:Blue;
+}
+tr:nth-child(1){
+    background-color:White;
+}
+tr.August1:nth-child(1){
+    background-color:lightgreen;
+}
+th.August2{
+    background-color:Brown;
+}
+th.August3{
+    background-color:yellow;
+}
+th.August4{
+    background-color:Red;
+}
+th.August5{
+    background-color:green;
+}
