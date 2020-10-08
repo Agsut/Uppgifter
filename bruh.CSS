@@ -1,0 +1,53 @@
+body{
+	background-color:DeepSkyBlue;
+}
+p.textfärg{
+	color:Red;
+}
+p.vanligfärg{
+	color:ForestGreen;
+}
+
+p{
+	font-size:125%
+}
+h2{
+	font-size:175%
+}
+
+a{
+	text-align: center;
+	font-size: 2em;
+	text-decoration:none;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 400px 400px 500px 400px;
+  grid-template-rows: auto;
+  grid-template-areas: 
+    "header header header header"
+    "main main . sidebar"
+    "footer footer footer footer";
+} <!-- gjort en grid -->
+table,th,tr,td{
+	border: 1px solid black;
+}
+tr:nth-child(even){
+	background-color:Crimson;
+}
+tr:nth-child(odd){
+	background-color:Coral;
+}
+tr:nth-child(1){
+	background-color:LawnGreen;
+}
+a:link{
+	color:silver;
+}
+a:visited{
+		color:silver;
+}
+a:hover{
+	color:gold;
+} <!-- fixat zebra striping på tabellen -->
