@@ -29,7 +29,7 @@ a{
     "header header header header"
     "main main . sidebar"
     "footer footer footer footer";
-} <!-- gjort en grid --> 
+} /*gjort en grid*/ 
 table,th,tr,td{
 	border: 1px solid black;
 }
@@ -50,4 +50,4 @@ a:visited{
 }
 a:hover{
 	color:gold;
-} <!-- fixat zebra striping på tabellen -->
+} /* fixat zebra striping på tabellen */
